@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+    paths:
+      - "resource-pack/**"
+      - ".github/workflows/**"
 
 permissions:
   contents: read
@@ -28,32 +31,19 @@ jobs:
 
       - name: Validate resource pack
         run: |
-          test -d assets || {
-            echo "ERROR: Missing assets folder"
-            exit 1
-          }
+          test -d resource-pack/assets
+          test -f resource-pack/pack.mcmeta
 
-          test -f pack.mcmeta || {
-            echo "ERROR: Missing pack.mcmeta"
-            exit 1
-          }
-
-      - name: Build resource pack
+      - name: Build resource pack ZIP
+        working-directory: resource-pack
         run: |
-          mkdir -p public
+          mkdir -p ../public
+          zip -r ../public/resourcepack.zip assets pack.mcmeta pack.png
+          sha1sum ../public/resourcepack.zip | awk '{print $1}' > ../public/resourcepack.sha1
 
-          if [ -f pack.png ]; then
-            zip -r public/resourcepack.zip assets pack.mcmeta pack.png
-          else
-            zip -r public/resourcepack.zip assets pack.mcmeta
-          fi
-
-          sha1sum public/resourcepack.zip \
-            | awk '{print $1}' \
-            > public/resourcepack.sha1
-
-          echo "<h1>Minecraft Resource Pack</h1>" > public/index.html
-          echo "<p><a href='resourcepack.zip'>Download resource pack</a></p>" >> public/index.html
+      - name: Create download page
+        run: |
+          echo '<a href="resourcepack.zip">Download Resource Pack</a>' > public/index.html
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
