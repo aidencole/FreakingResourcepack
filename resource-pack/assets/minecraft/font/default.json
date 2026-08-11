@@ -77,6 +77,24 @@
             "chars": [
                 "\uE009"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/wiggenweld_top.png",
+            "ascent": 15,
+            "height": 85,
+            "chars": [
+                "\uE010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/wiggenweld_bottom.png",
+            "ascent": 20,
+            "height": 40,
+            "chars": [
+                "\uE01"
+            ]
         }
     ]
 }
