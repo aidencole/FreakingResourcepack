@@ -4,10 +4,8 @@
       "type": "bitmap",
       "file": "minecraft:font/fire_resistance.png",
       "ascent": 8,
-      "height": 32,
-      "chars": [
-        "\uE001"
-      ]
+      "height": 8,
+      "chars": ["\uE001"]
     }
   ]
 }
