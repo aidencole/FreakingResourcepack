@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "potiongame:font/fireResistance.png",
+      "ascent": 100,
+      "height": 128,
+      "chars": [
+        "\uE001"
+      ]
+    }
+  ]
+}
