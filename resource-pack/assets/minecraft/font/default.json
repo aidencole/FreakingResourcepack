@@ -18,7 +18,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/fire_resistance_bottom.png",
-            "ascent": 15,
+            "ascent": 20,
             "height": 40,
             "chars": [
                 "\uE003"
