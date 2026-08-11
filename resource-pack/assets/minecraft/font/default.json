@@ -1,13 +1,28 @@
 {
-  "providers": [
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/fire_resistance.png",
-      "ascent": 8,
-      "height": 16,
-      "chars": [
-        "\uE001"
-      ]
-    }
-  ]
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                "\uE001": 0
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/fire_resistance_top.png",
+            "ascent": 15,
+            "height": 85,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/fire_resistance_bottom.png",
+            "ascent": 15,
+            "height": 40,
+            "chars": [
+                "\uE003"
+            ]
+        }
+    ]
 }
