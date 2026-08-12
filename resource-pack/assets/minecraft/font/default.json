@@ -167,6 +167,24 @@
             "chars": [
                 "\uE020"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/truth_serum_top.png",
+            "ascent": 15,
+            "height": 85,
+            "chars": [
+                "\uE021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/truth_serum_bottom.png",
+            "ascent": 20,
+            "height": 41,
+            "chars": [
+                "\uE022"
+            ]
         }
     ]
 }
