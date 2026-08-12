@@ -19,7 +19,7 @@
             "type": "bitmap",
             "file": "minecraft:font/fire_resistance_bottom.png",
             "ascent": 20,
-            "height": 40,
+            "height": 41,
             "chars": [
                 "\uE003"
             ]
@@ -37,7 +37,7 @@
             "type": "bitmap",
             "file": "minecraft:font/water_breathing_bottom.png",
             "ascent": 20,
-            "height": 40,
+            "height": 41,
             "chars": [
                 "\uE005"
             ]
@@ -55,7 +55,7 @@
             "type": "bitmap",
             "file": "minecraft:font/invisibility_bottom.png",
             "ascent": 20,
-            "height": 40,
+            "height": 41,
             "chars": [
                 "\uE007"
             ]
@@ -73,7 +73,7 @@
             "type": "bitmap",
             "file": "minecraft:font/night_sight_bottom.png",
             "ascent": 20,
-            "height": 40,
+            "height": 41,
             "chars": [
                 "\uE009"
             ]
@@ -91,7 +91,7 @@
             "type": "bitmap",
             "file": "minecraft:font/wiggenweld_bottom.png",
             "ascent": 20,
-            "height": 40,
+            "height": 41,
             "chars": [
                 "\uE011"
             ]
