@@ -109,7 +109,7 @@
             "type": "bitmap",
             "file": "minecraft:font/serpents_kiss_bottom.png",
             "ascent": 20,
-            "height": 40,
+            "height": 41,
             "chars": [
                 "\uE014"
             ]
