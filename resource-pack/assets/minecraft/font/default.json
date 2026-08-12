@@ -113,6 +113,24 @@
             "chars": [
                 "\uE014"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/phoenix_draught_top.png",
+            "ascent": 15,
+            "height": 85,
+            "chars": [
+                "\uE015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/phoenix_draught_bottom.png",
+            "ascent": 20,
+            "height": 41,
+            "chars": [
+                "\uE016"
+            ]
         }
     ]
 }
