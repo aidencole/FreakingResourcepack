@@ -131,6 +131,24 @@
             "chars": [
                 "\uE016"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/edurus_top.png",
+            "ascent": 15,
+            "height": 85,
+            "chars": [
+                "\uE017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/edurus_bottom.png",
+            "ascent": 20,
+            "height": 41,
+            "chars": [
+                "\uE018"
+            ]
         }
     ]
 }
