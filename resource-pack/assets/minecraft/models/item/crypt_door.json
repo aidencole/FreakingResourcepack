@@ -1,0 +1,30 @@
+{
+	"format_version": "26.3",
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "item/crypt_door",
+		"particle": "item/vile"
+	},
+	"elements": [
+		{
+			"from": [-3.15, -16, -0.25],
+			"to": [20.85, 32, 16.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.85, 8, 8]},
+			"faces": {
+				"north": {"uv": [3, 0, 0, 6], "texture": "#0"},
+				"east": {"uv": [6, 0, 8, 6], "texture": "#0"},
+				"south": {"uv": [3, 0, 6, 6], "texture": "#0"},
+				"west": {"uv": [6, 0, 8, 6], "texture": "#0"},
+				"up": {"uv": [2, 6, 5, 8], "texture": "#0"},
+				"down": {"uv": [5, 6, 8, 8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [36.5, -3.23, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}
