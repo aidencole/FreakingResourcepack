@@ -4,7 +4,8 @@
 	"texture_size": [8, 8],
 	"textures": {
 		"0": "item/thermometer"
-		"1": "item/zero"
+		"1": "item/zero",
+		"particle": "item/thermometer"
 	},
 	"elements": [
 		{
