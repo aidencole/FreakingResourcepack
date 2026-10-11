@@ -62,7 +62,7 @@
 	"display": {
 		"head": {
 			"rotation": [0, -90, 0],
-			"translation": [0, 80, -30.25],
+			"translation": [0, 36.75, -30.25],
 			"scale": [4, 4, 4]
 		}
 	}
