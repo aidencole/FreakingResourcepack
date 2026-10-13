@@ -185,6 +185,17 @@
             "chars": [
                 "\uE022"
             ]
+        },
+        {
+            "providers": [
+                {
+                    "type": "bitmap",
+                    "file": "minecraft:font/freaking_horners_logo.png",
+                    "ascent": 24,
+                    "height": 48,
+                    "chars": [ "\uE999" ]
+                }
+            ]
         }
     ]
 }
