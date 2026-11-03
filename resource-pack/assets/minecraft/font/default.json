@@ -188,8 +188,8 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/Freaking_Horners)Logo.png",
-            "ascent": 24,
+            "file": "minecraft:font/freaking_horners_logo.png",
+            "ascent": 4,
             "height": 48,
             "chars": [
                 "\uE050"
