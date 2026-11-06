@@ -186,6 +186,97 @@
                 "\uE022"
             ]
         },
+	{
+            "type": "bitmap",
+            "file": "minecraft:font/levitation_top.png",
+            "ascent": 15,
+            "height": 85,
+            "chars": [
+                "\uE023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/levitation_bottom.png",
+            "ascent": 20,
+            "height": 41,
+            "chars": [
+                "\uE024"
+            ]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:font/amortentia_top.png",
+            "ascent": 15,
+            "height": 85,
+            "chars": [
+                "\uE025"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/amortentia_bottom.png",
+            "ascent": 20,
+            "height": 41,
+            "chars": [
+                "\uE026"
+            ]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:font/angels_trumpet_top.png",
+            "ascent": 15,
+            "height": 85,
+            "chars": [
+                "\uE027"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/angels_trumpet_bottom.png",
+            "ascent": 20,
+            "height": 41,
+            "chars": [
+                "\uE028"
+            ]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:font/felix_felicis_top.png",
+            "ascent": 15,
+            "height": 85,
+            "chars": [
+                "\uE029"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/felix_felicis_bottom.png",
+            "ascent": 20,
+            "height": 41,
+            "chars": [
+                "\uE030"
+            ]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:font/polyjuice_top.png",
+            "ascent": 15,
+            "height": 85,
+            "chars": [
+                "\uE031"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/polyjuice_bottom.png",
+            "ascent": 20,
+            "height": 41,
+            "chars": [
+                "\uE032"
+            ]
+        },
+
         {
             "type": "bitmap",
             "file": "minecraft:font/freaking_horners_logo.png",
