@@ -276,6 +276,33 @@
                 "\uE032"
             ]
         },
+	{
+            "type": "bitmap",
+            "file": "minecraft:font/1v1_top.png",
+            "ascent": 15,
+            "height": 85,
+            "chars": [
+                "\uE033"
+            ]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:font/2v2_top.png",
+            "ascent": 15,
+            "height": 85,
+            "chars": [
+                "\uE034"
+            ]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:font/3v3_top.png",
+            "ascent": 15,
+            "height": 85,
+            "chars": [
+                "\uE035"
+            ]
+        },
 
         {
             "type": "bitmap",
