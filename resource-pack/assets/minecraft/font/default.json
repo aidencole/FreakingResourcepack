@@ -278,32 +278,13 @@
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:font/onevone_top.png",
-            "ascent": 15,
-            "height": 85,
-            "chars": [
-                "\uE033"
-            ]
-        },
-	{
-            "type": "bitmap",
-            "file": "minecraft:font/twovtwo_top.png",
-            "ascent": 15,
-            "height": 85,
-            "chars": [
-                "\uE034"
-            ]
-        },
-	{
-            "type": "bitmap",
-            "file": "minecraft:font/threevthree_top.png",
+            "file": "minecraft:font/threevthree.png",
             "ascent": 15,
             "height": 85,
             "chars": [
                 "\uE035"
             ]
         },
-
         {
             "type": "bitmap",
             "file": "minecraft:font/freaking_horners_logo.png",
