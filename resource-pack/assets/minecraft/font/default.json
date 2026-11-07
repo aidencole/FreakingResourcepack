@@ -278,6 +278,24 @@
         },
 	{
             "type": "bitmap",
+            "file": "minecraft:font/onevone.png",
+            "ascent": 15,
+            "height": 85,
+            "chars": [
+                "\uE033"
+            ]
+        },
+	{
+            "type": "bitmap",
+            "file": "minecraft:font/twovtwo.png",
+            "ascent": 15,
+            "height": 85,
+            "chars": [
+                "\uE034"
+            ]
+        },
+	{
+            "type": "bitmap",
             "file": "minecraft:font/threevthree.png",
             "ascent": 15,
             "height": 85,
