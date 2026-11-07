@@ -278,7 +278,7 @@
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:font/1v1_top.png",
+            "file": "minecraft:font/onevone_top.png",
             "ascent": 15,
             "height": 85,
             "chars": [
@@ -287,7 +287,7 @@
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:font/2v2_top.png",
+            "file": "minecraft:font/twovtwo_top.png",
             "ascent": 15,
             "height": 85,
             "chars": [
@@ -296,7 +296,7 @@
         },
 	{
             "type": "bitmap",
-            "file": "minecraft:font/3v3_top.png",
+            "file": "minecraft:font/threevthree_top.png",
             "ascent": 15,
             "height": 85,
             "chars": [
