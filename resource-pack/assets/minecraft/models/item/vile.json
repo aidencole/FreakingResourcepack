@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/vile",
+    "layer1": "minecraft:item/vile_overlay"
+  }
+}
