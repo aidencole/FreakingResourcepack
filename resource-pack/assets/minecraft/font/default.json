@@ -329,6 +329,15 @@
             "chars": [
                 "\uE052"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/tags/tag_sonik.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE053"
+            ]
         }
     ]
 }
