@@ -315,8 +315,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/tags/tag_fred.png",
-            "ascent": 8,
-            "height": 9,
+            "ascent": 7,
+            "height": 8,
             "chars": [
                 "\uE051"
             ]
@@ -324,8 +324,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/tags/tag_aiden.png",
-            "ascent": 8,
-            "height": 9,
+            "ascent": 7,
+            "height": 8,
             "chars": [
                 "\uE052"
             ]
