@@ -320,7 +320,15 @@
             "chars": [
                 "\uE051"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/tags/tag_aiden.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uE052"
+            ]
         }
-
     ]
 }
