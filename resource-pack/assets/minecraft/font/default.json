@@ -347,7 +347,33 @@
             "chars": [
                 "\uE054"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/tags/tag_nickoo.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE055"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/tags/tag_quin.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE056"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/tags/tag_scorp.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\uE057"
+            ]
         }
-
     ]
 }
