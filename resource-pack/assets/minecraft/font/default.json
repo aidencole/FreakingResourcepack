@@ -311,6 +311,16 @@
             "chars": [
                 "\uE050"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/tags/tag_fred.png",
+            "ascent": 0,
+            "height": 9,
+            "chars": [
+                "\uE051"
+            ]
         }
+
     ]
 }
