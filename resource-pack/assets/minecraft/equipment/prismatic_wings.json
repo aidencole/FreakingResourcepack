@@ -1,0 +1,7 @@
+{
+  "layers": {
+    "wings": [
+      { "texture": "minecraft:prismatic_wings" }
+    ]
+  }
+}
